@@ -25,7 +25,7 @@ window.MBT_CONFIG = {
         "en": "Chief Operating Officer (COO)",
         "ar": "الرئيس التنفيذي للعمليات"
       },
-      "photo": null,
+      "photo": "assets/hassan-alfahadi-portrait.png",
       "bio": {
         "en": "Hassan brings more than 25 years of experience in operations and management advisory across the public and private sectors. His expertise spans operational strategy, organizational development, and major project delivery, with a focus on improving performance, strengthening governance, and supporting strategic transformation aligned with Saudi Vision 2030.",
         "ar": "يمتلك حسن خبرة تتجاوز 25 عامًا في العمليات والاستشارات الإدارية في القطاعين الحكومي والخاص. وتشمل خبراته الاستراتيجية التشغيلية والتطوير التنظيمي وتنفيذ المشاريع الكبرى، مع التركيز على تحسين الأداء وتعزيز الحوكمة ودعم التحول الاستراتيجي بما يتوافق مع رؤية السعودية 2030."
@@ -40,7 +40,7 @@ window.MBT_CONFIG = {
         "en": "Chief Financial Officer (CFO)",
         "ar": "الرئيس التنفيذي للشؤون المالية"
       },
-      "photo": null,
+      "photo": "assets/wahaj-ul-samad-portrait.png",
       "bio": {
         "en": "Wahaj brings more than 15 years of experience in financial services and FinTech, spanning financial analysis, risk management, and business advisory. His expertise includes financial planning, budgeting, and regulatory compliance, connecting financial insight with business objectives to support sound decisions and sustainable growth.",
         "ar": "يمتلك وهج خبرة تزيد على 15 عامًا في الخدمات المالية والتقنية المالية، تشمل التحليل المالي وإدارة المخاطر والاستشارات الإدارية. وتتضمن خبراته التخطيط المالي وإعداد الميزانيات والامتثال التنظيمي، بما يدعم اتخاذ قرارات مالية مدروسة وتحقيق نمو مستدام."
