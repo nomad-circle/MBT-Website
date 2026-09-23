@@ -10,7 +10,7 @@ window.MBT_CONFIG = {
         "en": "Chief Executive Officer (CEO)",
         "ar": "الرئيس التنفيذي"
       },
-      "photo": null,
+      "photo": "assets/meshal-al-mutairi-portrait.png",
       "bio": {
         "en": "Meshal brings more than 27 years of experience at the Saudi Ministry of Defense, spanning team leadership, project supervision, and government coordination. His background in executive administration and institutional communications supports his leadership of MBT and its relationships across the defense sector.",
         "ar": "يمتلك مشعل خبرة تزيد على 27 عامًا في وزارة الدفاع السعودية، تشمل قيادة فرق العمل والإشراف على المشاريع والتنسيق مع الجهات الحكومية. ويستند في قيادته لشركة MBT إلى خبرته في الإدارة التنفيذية والاتصالات الإدارية وبناء العلاقات المؤسسية في القطاع الدفاعي."
